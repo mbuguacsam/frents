@@ -1,0 +1,10 @@
+header{
+    clear: tboth;
+    /*position: ;*/
+    bottom: 0 !important;
+    left:0;
+    right: 0;
+    height: 50;
+    margin-top: -5opx;
+    border-color: blueviolet;
+}

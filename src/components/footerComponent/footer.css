@@ -1,0 +1,12 @@
+footer{
+    background-color: blueviolet;
+
+    clear: both;
+    bottom: 0 !important;
+    left:0;
+    right: 0;
+    height: 40px;
+    margin-top: 40px;
+    border-top:5px solid #232323
+     
+}
